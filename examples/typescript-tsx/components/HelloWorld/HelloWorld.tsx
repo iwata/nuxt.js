@@ -9,6 +9,6 @@ export default Vue.extend({
     }
   },
   render () {
-    return <h1 class={styles.title}>Hello world!</h1>
+    return <h1 class={styles.bug}>Hello world!</h1>
   }
 })
